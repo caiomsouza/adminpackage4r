@@ -65,6 +65,9 @@ remove.packages("adminpackage4r")
 
 ```
 
+### Examples of R Scripts
+* Check the [(script)](https://github.com/caiomsouza/adminpackage4r/tree/master/scripts) folder to see some examples of R.
+
 ### Support
 * If you need support please feel free to create a issue here https://github.com/caiomsouza/adminpackage4r/issues and I will do my best to help you.
 
