@@ -1,8 +1,0 @@
-Package: adminpackage4r
-Title: adminpackage4r - Admin Package For R is an easy way to manage your packages in R
-Version: 0.1
-Authors@R: person("Caio", "Moreno", email = "caiomsouza@gmail.com", role = c("aut", "cre"))
-Description: Admin Package For R is an easy way to manage your packages in R
-Depends: R (>= 3.1.2)
-License: Apache License Version 2
-LazyData: true
