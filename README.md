@@ -79,6 +79,6 @@ Admin Package For R is a free and open source software. It is available under th
 
 This projects is maintained by Caio Moreno [(@caiomsouza)](https://twitter.com/caiomsouza)
 
-###Changelog
-
-0.1 Alpha version (First version):
+###Links
+http://cran.r-project.org/web/packages/pacman/vignettes/Introduction_to_pacman.html
+http://www.ats.ucla.edu/stat/r/faq/packages.htm
