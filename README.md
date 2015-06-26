@@ -98,3 +98,5 @@ This projects is maintained by Caio Moreno [(@caiomsouza)](https://twitter.com/c
 ###Links
 http://cran.r-project.org/web/packages/pacman/vignettes/Introduction_to_pacman.html
 http://www.ats.ucla.edu/stat/r/faq/packages.htm
+http://datavu.blogspot.com.es/2015/01/how-to-create-and-publish-r-package-on.html
+http://cran.r-project.org/web/packages/policies.html#Submission
