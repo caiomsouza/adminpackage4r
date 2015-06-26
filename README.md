@@ -7,6 +7,21 @@ Having trouble with this project? Feel free to send me e-mail or create a issue.
 ### Learn more
 * Feel free to use it for Production Environment if it works correctly for you.
 
+## script to put on you R Code
+
+```
+#Load adminpackage4r
+library("adminpackage4r")
+
+# Specify the list of required packages to be installed and load
+Required_Packages=c("ggplot2", "Rcpp", "plyr", "sqldf");
+
+# Call the Function
+Install_And_Load(Required_Packages);
+
+
+```
+
 ## Install and Load adminpackage4r package
 
 ```
@@ -24,10 +39,10 @@ devtools::install_github("caiomsouza/adminpackage4r")
 library("adminpackage4r")
 
 ```
-## Install_And_Load Function 
+## Install_And_Load Function
 
 ```
-# Specify the list of required packages to be installed and load    
+# Specify the list of required packages to be installed and load
 Required_Packages=c("ggplot2", "Rcpp", "plyr", "sqldf");
 
 # Call the Function
@@ -54,7 +69,7 @@ library("adminpackage4r")
 # ?Install_And_Load Function Doc
 ??Install_And_Load
 
-# Specify the list of required packages to be installed and load    
+# Specify the list of required packages to be installed and load
 Required_Packages=c("ggplot2", "Rcpp", "plyr", "sqldf");
 
 # Call the Function
