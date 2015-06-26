@@ -11,6 +11,7 @@ Having trouble with this project? Feel free to send me e-mail or create a issue.
 
 ```
 #Load adminpackage4r
+#Info about adminpackage4r package at https://github.com/caiomsouza/adminpackage4r
 library("adminpackage4r")
 
 # Specify the list of required packages to be installed and load
