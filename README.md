@@ -100,3 +100,4 @@ http://cran.r-project.org/web/packages/pacman/vignettes/Introduction_to_pacman.h
 http://www.ats.ucla.edu/stat/r/faq/packages.htm
 http://datavu.blogspot.com.es/2015/01/how-to-create-and-publish-r-package-on.html
 http://cran.r-project.org/web/packages/policies.html#Submission
+http://osxdaily.com/2012/04/05/create-tar-gzip/
